@@ -70,15 +70,15 @@ A.l2:hover
 A.l2
 {
     FONT-SIZE: 10pt;
-    COLOR: white;
+    COLOR: yellow;
     FONT-FAMILY: Verdana, Arial;
-    TEXT-DECORATION: none
+    TEXT-DECORATION: none;
 }
 .H3
 {
     FONT-WEIGHT: bold;
     FONT-SIZE: 20pt;
-    COLOR: black;
+    COLOR: white;
     FONT-FAMILY: Arial, 'Verdana Ref', Verdana
 }
 .H1
@@ -116,7 +116,7 @@ A.l3
 {
     FONT-WEIGHT: bold;
     FONT-SIZE: 12pt;
-    COLOR: black;
+    COLOR: white;
     FONT-FAMILY: 'Times New Roman', Arial, Verdana
 }
 A.l4:hover
@@ -138,7 +138,7 @@ A.l4
 }
 .C2
 {
-    BACKGROUND-COLOR: black
+    BACKGROUND-COLOR: black;
 }
 .C99
 {
